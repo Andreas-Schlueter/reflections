@@ -1,0 +1,7 @@
+Initializing a new repository
+
+- Creates a new .git file to track changes.
+
+How is staging area different?
+
+It contains all files to be tracked in versions. The WD also contains others, the repository only the committed versions.
